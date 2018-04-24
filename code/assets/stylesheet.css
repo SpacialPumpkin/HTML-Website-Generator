@@ -1,0 +1,28 @@
+/*
+EVAN LEIDER
+Website Creator V1.0 Stylesheet
+*/
+
+//for the menu bar
+.menu-bar {
+    -fx-font-size: 12px; // units: px or pt
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-weight: bold;
+    -fx-text-fill: #030996;
+    -fx-background-color: linear-gradient(#1299fc, #ffffff);
+}
+
+//for the rest of the program, (buttons, textfield etc)
+.root {
+    -fx-font-size: 12px;
+    -fx-font-family: "Comic Sans MS";
+    -fx-background-color: linear-gradient(#1299fc, #2be548);
+    //-fx-background-image: url("background.jpg");
+    -fx-text-fill: #030996;
+}
+
+//generic labels
+.label {
+    -fx-font-weight: bold;
+    -fx-text-fill: #030996;
+}
