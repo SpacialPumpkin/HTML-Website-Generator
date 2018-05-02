@@ -1,7 +1,8 @@
 Website Creator 1.0
 Created by Evan Leider
 
-To launch the program, please run the HTMLWebsiteGenerator.jar executable.
+To launch the program, make sure you have Java installed, then
+please run the HTMLWebsiteGenerator.jar executable.
 
 How to Use:
 This program creates 3 connected HTML webpages with an accompanying stylesheet.css 
